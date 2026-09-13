@@ -1,0 +1,31 @@
+{
+  "template": {
+    "name": "awesome-lists",
+    "version": "2.2.0"
+  },
+  "repository": {
+    "name": "awesome-lists",
+    "type": "ecosystem-index",
+    "url": "https://github.com/brandonhimpfen/awesome-lists"
+  },
+  "governance": {
+    "manifesto": "manifesto.md",
+    "governance": "GOVERNANCE.md",
+    "contributing": "CONTRIBUTING.md"
+  },
+  "compliance": {
+    "contributing_required": true,
+    "license_required": true
+  },
+  "resource_evaluation": {
+    "framework": "ResourceRank",
+    "repository": "https://github.com/brandonhimpfen/resourcerank",
+    "status": "experimental",
+    "purpose": "Support consistent, transparent, and explainable resource evaluation across the Awesome Lists ecosystem.",
+    "dataset_path": "data/evaluations.jsonl"
+  },
+  "integrations": {
+    "zenodo": false,
+    "citation_cff": false
+  }
+}
