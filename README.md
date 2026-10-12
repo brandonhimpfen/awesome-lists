@@ -67,6 +67,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 - [Space Technology](#space-technology)
 - [Sustainability and Green Tech](#sustainability-and-green-tech)
 - [Technology Giants](#technology-giants)
+- [Travel](#travel)
 - [Web Optimization](#web-optimization)
 - [Work & Productivity](#work--productivity)
 
@@ -500,6 +501,14 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Google](https://github.com/brandonhimpfen/awesome-google):** A curated list of high-quality resources, tools, APIs, and services related to Google products and technologies.
 * **[Awesome Microsoft](https://github.com/brandonhimpfen/awesome-microsoft):** A curated list of high-quality resources, tools, products, APIs, and communities related to Microsoft technologies and services.
 
+## Travel
+
+* **[Awesome Digital Nomads](https://github.com/brandonhimpfen/awesome-digital-nomads):** A curated list of awesome resources, tools, communities, and tips for digital nomads who want to embrace a location-independent lifestyle.
+* **[Awesome Solo Traveler](https://github.com/brandonhimpfen/awesome-solo-traveler):** A curated list of awesome resources, tools, blogs, communities, and platforms for solo travelers.
+* **[Awesome Travel](https://github.com/brandonhimpfen/awesome-travel):** A collection of awesome travel-related lists.
+  * **[Awesome Canada Travel](https://github.com/brandonhimpfen/awesome-canada-travel)** – A curated list of travel resources, safety tips, and nomad-friendly services for Canada.
+* **[Awesome Travel Hacking](https://github.com/brandonhimpfen/awesome-travel-hacking):** A curated list of awesome resources, tools, and strategies for travel hacking, designed to help you save money, earn points and miles, and travel the world for less.
+  
 ## Web Optimization
 
 * **[Awesome Web Accessibility](https://github.com/brandonhimpfen/awesome-web-accessibility):** A curated list of awesome resources, tools, and tips to improve web accessibility.
