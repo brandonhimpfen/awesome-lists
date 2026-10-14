@@ -67,7 +67,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 - [Space Technology](#space-technology)
 - [Sustainability and Green Tech](#sustainability-and-green-tech)
 - [Technology Giants](#technology-giants)
-- [Travel](#travel)
+- [Travel & Digital Nomadism](#travel--digital-nomadism)
 - [Web Optimization](#web-optimization)
 - [Work & Productivity](#work--productivity)
 
@@ -501,7 +501,7 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Google](https://github.com/brandonhimpfen/awesome-google):** A curated list of high-quality resources, tools, APIs, and services related to Google products and technologies.
 * **[Awesome Microsoft](https://github.com/brandonhimpfen/awesome-microsoft):** A curated list of high-quality resources, tools, products, APIs, and communities related to Microsoft technologies and services.
 
-## Travel
+## Travel & Digital Nomadism
 
 * **[Awesome Digital Nomads](https://github.com/brandonhimpfen/awesome-digital-nomads):** A curated list of awesome resources, tools, communities, and tips for digital nomads who want to embrace a location-independent lifestyle.
 * **[Awesome Solo Traveler](https://github.com/brandonhimpfen/awesome-solo-traveler):** A curated list of awesome resources, tools, blogs, communities, and platforms for solo travelers.
