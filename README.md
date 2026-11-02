@@ -76,11 +76,11 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **[Awesome Agricultural Data & Analytics](https://github.com/brandonhimpfen/awesome-agricultural-data-analytics):** Platforms for analyzing crop, soil, and weather data.
 * **[Awesome Agricultural Robotics](https://github.com/brandonhimpfen/awesome-agricultural-robotics):** Robots and automation systems for farming tasks.
 * **[Awesome AgTech](https://github.com/brandonhimpfen/awesome-agtech):** Platforms and tools for modern agriculture systems.
-* **Awesome Crop Monitoring & Detection:** Tools for detecting crop health and disease.
-* **Awesome Farm Management Systems:** Software for managing farm operations and resources.
-* **Awesome Precision Agriculture:** Tools for data-driven farming and optimization.
-* **Awesome Smart Irrigation:** Systems for optimizing water usage and irrigation.
-* **Awesome Soil & Environmental Monitoring:** Sensors and systems for tracking soil and environmental conditions.
+* **[Awesome Crop Monitoring & Detection](https://github.com/brandonhimpfen/awesome-crop-monitoring-detection):** Tools for detecting crop health and disease.
+* **[Awesome Farm Management Systems](https://github.com/brandonhimpfen/awesome-farm-management-systems):** Software for managing farm operations and resources.
+* **[Awesome Precision Agriculture](https://github.com/brandonhimpfen/awesome-precision-agriculture):** Tools for data-driven farming and optimization.
+* **[Awesome Smart Irrigation](https://github.com/brandonhimpfen/awesome-smart-irrigation):** Systems for optimizing water usage and irrigation.
+* **[Awesome Soil & Environmental Monitoring](https://github.com/brandonhimpfen/awesome-soil-environmental-monitoring):** Sensors and systems for tracking soil and environmental conditions.
 * **[Awesome Sustainable Agriculture](https://github.com/brandonhimpfen/awesome-sustainable-agriculture):** Tools and systems for environmentally sustainable farming practices.
 * **[Awesome UAV in Agriculture](https://github.com/brandonhimpfen/awesome-uav-in-agriculture):** Drone-based systems for monitoring and mapping farmland.
   
@@ -252,18 +252,18 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ## Education Technology (EdTech)
 
-* **Awesome AI in Education:** AI tools for personalized learning, tutoring, and assessment.
+* **[Awesome AI in Education](https://github.com/brandonhimpfen/awesome-ai-in-education):** AI tools for personalized learning, tutoring, and assessment.
 * **[Awesome Classroom Technology](https://github.com/brandonhimpfen/awesome-classroom-technology):** Tools for in-person and hybrid learning environments.
-* **Awesome Developer Education:** Platforms and tools for teaching programming and technical skills.
+* **[Awesome Developer Education](https://github.com/brandonhimpfen/awesome-developer-education):** Platforms and tools for teaching programming and technical skills.
 * **[Awesome EdTech](https://github.com/brandonhimpfen/awesome-edtech):** Platforms and tools for digital learning and education systems.
-* **Awesome Educational Content Creation:** Tools for building interactive and multimedia learning content.
-* **Awesome Language Learning Tech:** Apps and tools for learning languages.
+* **[Awesome Educational Content Creation](https://github.com/brandonhimpfen/awesome-educational-content-creation):** Tools for building interactive and multimedia learning content.
+* **[Awesome Language Learning Tech](https://github.com/brandonhimpfen/awesome-language-learning-tech):** Apps and tools for learning languages.
 * **[Awesome Learning Management Systems (LMS)](https://github.com/brandonhimpfen/awesome-learning-management-systems):** Tools for managing courses, learners, and content delivery.
-* **Awesome Online Course Platforms:** Platforms for creating and distributing courses.
+* **[Awesome Online Course Platforms](https://github.com/brandonhimpfen/awesome-online-course-platforms):** Platforms for creating and distributing courses.
 * **[Awesome Online Learning](https://github.com/brandonhimpfen/awesome-online-learning):** A curated list of platforms, tools, and resources for online learning, self-paced education, and digital course delivery.
-* **Awesome Open Education Resources (OER):** Free and open learning materials and platforms.
+* **[Awesome Open Education Resources (OER)](https://github.com/brandonhimpfen/Awesome-open-education-resources):** Free and open learning materials and platforms.
 * **[Awesome Self-Learning](https://github.com/brandonhimpfen/awesome-self-learning):** Platforms, tools, resources, communities, methodologies, and learning materials for self-directed learning.
-* **Awesome Student Analytics:** Systems for tracking performance and learning outcomes.
+* **[Awesome Student Analytics](https://github.com/brandonhimpfen/awesome-student-analytics):** Systems for tracking performance and learning outcomes.
 
 ## Emerging Tech: Drones & IoT
 
@@ -327,26 +327,26 @@ A growing collection of curated awesome lists covering programming, AI, science,
 * **Awesome Clinical Systems:** Electronic health records (EHR), hospital systems, and workflows.
 * **[Awesome Computational Biology](https://github.com/brandonhimpfen/awesome-computational-biology):** A curated list of tools, libraries, datasets, and platforms for computational biology.
 * **[Awesome Digital Health](https://github.com/brandonhimpfen/awesome-digital-health):** Platforms, tools, and systems for modern healthcare delivery and infrastructure.
-* **Awesome Health Data & Interoperability:** Standards, APIs, and systems for exchanging healthcare data (FHIR, HL7, etc.).
-* **Awesome Health Privacy & Compliance:** HIPAA, GDPR, and healthcare-specific privacy tools and frameworks.
-* **Awesome Healthcare Analytics:** Data platforms and tools for healthcare insights and outcomes.
-* **Awesome Medical AI:** AI applications in diagnostics, imaging, and clinical decision support.
-* **Awesome Mental Health Tech:** Platforms and tools focused on mental health and wellbeing.
-* **Awesome Telemedicine:** Platforms and tools for remote healthcare delivery.
+* **[Awesome Health Data & Interoperability](https://github.com/brandonhimpfen/awesome-health-data-interoperability):** Standards, APIs, and systems for exchanging healthcare data (FHIR, HL7, etc.).
+* **[Awesome Health Privacy & Compliance](https://github.com/brandonhimpfen/awesome-health-privacy-compliance):** HIPAA, GDPR, and healthcare-specific privacy tools and frameworks.
+* **[Awesome Healthcare Analytics](https://github.com/brandonhimpfen/awesome-healthcare-analytics):** Data platforms and tools for healthcare insights and outcomes.
+* **[Awesome Medical AI](https://github.com/brandonhimpfen/awesome-medical-ai):** AI applications in diagnostics, imaging, and clinical decision support.
+* **[Awesome Mental Health Tech](https://github.com/brandonhimpfen/awesome-mental-health-tech):** Platforms and tools focused on mental health and wellbeing.
+* **[Awesome Telemedicine](https://github.com/brandonhimpfen/awesome-telemedicine):** Platforms and tools for remote healthcare delivery.
 * **[Awesome Wearables & Health Monitoring](https://github.com/brandonhimpfen/awesome-wearables-health-monitoring):** Devices and systems for tracking health metrics.
 
 ## Logistics & Supply Chain
 
 * **[Awesome Cold Chain Logistics](https://github.com/brandonhimpfen/awesome-cold-chain-logistics):** Systems for temperature-sensitive goods and transport.
-* **Awesome Fleet Management:** Tools for managing vehicles and logistics operations.
+* **[Awesome Fleet Management](https://github.com/brandonhimpfen/awesome-fleet-management):** Tools for managing vehicles and logistics operations.
 * **[Awesome Last-Mile Delivery](https://github.com/brandonhimpfen/awesome-last-mile-delivery):** Platforms and tools for final delivery optimization.
 * **[Awesome Logistics](https://github.com/brandonhimpfen/awesome-logistics):** A curated list of platforms, tools, and technologies for logistics.
-* **Awesome Logistics Tech:** Systems for transportation, routing, and delivery optimization.
-* **Awesome Procurement Systems:** Tools for sourcing and supplier management.
+* **[Awesome Logistics Tech](https://github.com/brandonhimpfen/awesome-logistics-tech):** Systems for transportation, routing, and delivery optimization.
+* **[Awesome Procurement Systems](https://github.com/brandonhimpfen/awesome-procurement-systems):** Tools for sourcing and supplier management.
 * **[Awesome Supply Chain](https://github.com/brandonhimpfen/awesome-supply-chain):** Platforms and tools for managing supply chains end-to-end.
-* **Awesome Supply Chain Analytics:** Data platforms for forecasting and optimization.
-* **Awesome Tracking & Visibility:** Systems for real-time tracking of goods and assets.
-* **Awesome Trade & Customs Tech:** Systems for international shipping and compliance.
+* **[Awesome Supply Chain Analytics](https://github.com/brandonhimpfen/awesome-supply-chain-analytics):** Data platforms for forecasting and optimization.
+* **[Awesome Tracking & Visibility](https://github.com/brandonhimpfen/awesome-tracking-visibility):** Systems for real-time tracking of goods and assets.
+* **[Awesome Trade & Customs Tech](https://github.com/brandonhimpfen/awesome-trade-customs-tech):** Systems for international shipping and compliance.
 * **[Awesome Warehouse Management](https://github.com/brandonhimpfen/awesome-warehouse-management):** Tools for inventory, storage, and fulfillment operations.
 
 ## Mathematics
@@ -454,15 +454,15 @@ A growing collection of curated awesome lists covering programming, AI, science,
 ## Smart Cities & Urban Tech
 
 * **[Awesome Civic Tech](https://github.com/brandonhimpfen/awesome-civic-tech):** Curated list of open source projects, platforms, communities, and tools advancing civic engagement and public service through technology.
-* **Awesome Digital Twins (Cities):** Platforms for simulating and modeling urban environments.
-* **Awesome Energy & Smart Grids:** Tools and systems for managing energy in urban environments.
-* **Awesome Geospatial & GIS:** Mapping, geospatial analysis, and location-based systems.
-* **Awesome Infrastructure Monitoring:** Systems for monitoring roads, bridges, utilities, and assets.
-* **Awesome IoT for Cities:** Sensors, networks, and IoT platforms for urban environments.
-* **Awesome Public Safety Tech:** Systems for emergency response and urban safety.
+* **[Awesome Digital Twins (Cities)](https://github.com/brandonhimpfen/awesome-digital-twins-cities):** Platforms for simulating and modeling urban environments.
+* **[Awesome Energy & Smart Grids](https://github.com/brandonhimpfen/awesome-energy-smart-grids):** Tools and systems for managing energy in urban environments.
+* **[Awesome Geospatial & GIS](https://github.com/brandonhimpfen/awesome-geospatial-gis):** Mapping, geospatial analysis, and location-based systems.
+* **[Awesome Infrastructure Monitoring](https://github.com/brandonhimpfen/awesome-infrastructure-monitoring):** Systems for monitoring roads, bridges, utilities, and assets.
+* **[Awesome IoT for Cities](https://github.com/brandonhimpfen/awesome-iot-for-cities):** Sensors, networks, and IoT platforms for urban environments.
+* **[Awesome Public Safety Tech](https://github.com/brandonhimpfen/awesome-public-safety-tech):** Systems for emergency response and urban safety.
 * **[Awesome Smart Cities](https://github.com/brandonhimpfen/awesome-smart-cities):** Platforms and systems for managing urban infrastructure and services.
-* **Awesome Urban Data Platforms:** Data systems for collecting and analyzing city-wide data.
-* **Awesome Urban Mobility:** Tools and systems for transportation, traffic, and mobility.
+* **[Awesome Urban Data Platforms](https://github.com/brandonhimpfen/awesome-urban-data-platforms):** Data systems for collecting and analyzing city-wide data.
+* **[Awesome Urban Mobility](https://github.com/brandonhimpfen/awesome-urban-mobility):** Tools and systems for transportation, traffic, and mobility.
   
 ## Social & Creator Platforms
 
