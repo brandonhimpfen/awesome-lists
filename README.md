@@ -8,17 +8,10 @@
 [![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) 
 [![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
-A growing collection of curated awesome lists covering programming, AI, science, sustainability, digital rights, and beyond – designed to inform, empower, and connect curious minds.
-
----
-
 🛠️ Status: Actively maintained  
 🎯 Focus: AI, decentralized systems, sustainability, travel, and modern web ecosystems.
 
-> **Part of the Awesome Ecosystem:**  
-> • **Awesome Lists** — discover the best tools & resources  
-> • **[Awesome Learn](https://github.com/brandonhimpfen/awesome-learn)** — learn topics step-by-step with clarity and guidance  
-> • **[Awesome Travel](https://github.com/brandonhimpfen/awesome-travel)** — curated tools, guides & data for travelers and digital nomads  
+A growing collection of curated awesome lists covering programming, AI, science, sustainability, digital rights, and beyond – designed to inform, empower, and connect curious minds.
 
 ---
 
