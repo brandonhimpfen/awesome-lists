@@ -32,6 +32,8 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ---
 
+## Table of Contents
+
 <div align="left">
 <table>
 <tr>
