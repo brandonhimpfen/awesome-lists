@@ -32,6 +32,11 @@ A growing collection of curated awesome lists covering programming, AI, science,
 
 ---
 
+<div align="left">
+<table>
+<tr>
+<td width="50%" valign="top">
+
 - [Agriculture Tech (AgTech)](#agriculture-tech-agtech)
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Blogging](#blogging)
@@ -51,6 +56,10 @@ A growing collection of curated awesome lists covering programming, AI, science,
 - [Frameworks](#frameworks)
 - [Gaming Development](#gaming-development)
 - [Health & Digital Health](#health--digital-health)
+
+</td>
+<td width="50%" valign="top">
+
 - [Logistics & Supply Chain](#logistics--supply-chain)
 - [Mathematics](#mathematics)
 - [Media](#media)
@@ -70,6 +79,11 @@ A growing collection of curated awesome lists covering programming, AI, science,
 - [Travel & Digital Nomadism](#travel--digital-nomadism)
 - [Web Optimization](#web-optimization)
 - [Work & Productivity](#work--productivity)
+
+</td>
+</tr>
+</table>
+</div>
 
 ## Agriculture Tech (AgTech)
 
