@@ -6,32 +6,32 @@ This roadmap outlines planned and potential expansions across major categories i
 
 - [ ] **Awesome Bash / Shell**  
 - [X] **Awesome C**  
-- [ ] **Awesome C++**  
-- [ ] **Awesome C#**  
-- [ ] **Awesome Clojure**  
-- [ ] **Awesome Dart**  
-- [ ] **Awesome Elixir**  
+- [X] **Awesome C++**  
+- [X] **Awesome C#**  
+- [X] **Awesome Clojure**  
+- [X] **Awesome Dart**  
+- [X] **Awesome Elixir**  
 - [X] **Awesome Fortran**  
 - [X] **Awesome Lua**  
 - [X] **Awesome MATLAB**  
 - [X] **Awesome PHP**  
 - [X] **Awesome SQL**
-- [ ] **Awesome Assembly / x86 / ARM**
-- [ ] **Awesome D**
+- [X] **Awesome Assembly / x86 / ARM**
+- [X] **Awesome D**
 - [ ] **Awesome F#**
-- [ ] **Awesome Nim**
+- [X] **Awesome Nim**
 - [X] **Awesome Zig**
-- [ ] **Awesome Cobol**
+- [X] **Awesome Cobol**
 
 # 2. Frameworks
 
-- [ ] **Awesome React**  
-- [ ] **Awesome Vue**  
+- [X] **Awesome React**  
+- [X] **Awesome Vue**  
 - [X] **Awesome Angular**  
-- [ ] **Awesome Svelte**  
+- [X] **Awesome Svelte**  
 - [X] **Awesome Next.js**  
 - [ ] **Awesome Nuxt.js**  
-- [ ] **Awesome Astro**  
+- [X] **Awesome Astro**  
 - [X] **Awesome Django**  
 - [X] **Awesome Flask**  
 - [X] **Awesome Laravel**  
@@ -45,10 +45,10 @@ This roadmap outlines planned and potential expansions across major categories i
 # 3. Cloud Platforms
 
 - [X] **Awesome Google Cloud Platform (GCP)**  
-- [ ] **Awesome Cloudflare / Cloudflare Workers / Edge Platform**  
+- [X] **Awesome Cloudflare / Cloudflare Workers / Edge Platform**  
 - [X] **Awesome DigitalOcean**  
 - [ ] **Awesome Netlify**  
-- [ ] **Awesome Vercel**  
+- [X] **Awesome Vercel**  
 - [ ] **Awesome Oracle Cloud Infrastructure (OCI)**  
 - [X] **Awesome Heroku**  
 - [ ] **Awesome IBM Cloud**
@@ -64,17 +64,17 @@ This roadmap outlines planned and potential expansions across major categories i
 - [ ] **Awesome Render**  
 - [ ] **Awesome Railway**  
 - [ ] **Awesome Fly.io**  
-- [ ] **Awesome WordPress.com**
+- [X] **Awesome WordPress.com**
 
 # 5. AI Ecosystems
 
 - [X] **Awesome AutoML**  
 - [ ] **Awesome Model Serving**  
 - [ ] **Awesome Foundation Models**
-- [ ] **Awesome AI Hardware**
-- [ ] **Awesome Open Source AI Models**
+- [X] **Awesome AI Hardware**
+- [X] **Awesome Open Source AI Models**
 - [ ] **Awesome Autonomous Systems / Robotics AI**
-- [ ] **Awesome AI Governance**
+- [X] **Awesome AI Governance**
 - [ ] **Awesome AI for Education**
 - [ ] **Awesome AI APIs**
 - [ ] **Awesome AI for Data Engineering**
@@ -113,27 +113,28 @@ This roadmap outlines planned and potential expansions across major categories i
 
 # 10. Science & Research
 
-- [ ] **Awesome Biology / Bioinformatics**  
+- [X] **Awesome Biology**
+- [ ] **Awesome Bioinformatics**
 - [X] **Awesome Physics**  
 - [X] **Awesome Chemistry**  
 - [ ] **Awesome Earth Science / Geology**  
-- [ ] **Awesome Space Science**
+- [X] **Awesome Space Science**
 
 # 11. Sustainability & Green Tech
 
-- [ ] **Awesome Renewable Energy**  
-- [ ] **Awesome Circular Economy**  
-- [ ] **Awesome Environmental Data**  
-- [ ] **Awesome Sustainable Architecture**
+- [X] **Awesome Renewable Energy**  
+- [X] **Awesome Circular Economy**  
+- [X] **Awesome Environmental Data**  
+- [X] **Awesome Sustainable Architecture**
       
 # 12. Social & Creator Platforms
 
-- [ ] **Awesome TikTok**  
-- [ ] **Awesome Reddit**  
-- [ ] **Awesome Twitch**  
-- [ ] **Awesome Discord**  
+- [X] **Awesome TikTok**  
+- [X] **Awesome Reddit**  
+- [X] **Awesome Twitch**  
+- [X] **Awesome Discord**  
 - [ ] **Awesome Tumblr**
-- [ ] **Awesome Bluesky**
+- [X] **Awesome Bluesky**
 
 # 13. Web Optimization
 
