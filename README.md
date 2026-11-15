@@ -440,6 +440,7 @@ Build interactive visual experiences using modern UI/UX design toolkits, media t
 - **[Awesome Design](https://github.com/brandonhimpfen/awesome-design):** Frameworks, libraries, asset repositories, and community resources across UI, interaction, and visual product design.
 - **[Awesome Figma](https://github.com/brandonhimpfen/awesome-figma):** Workflow plugins, UI kit templates, design system tokens, and automation tools for Figma.
 - **[Awesome Icons](https://github.com/brandonhimpfen/awesome-icons):** Vector icon sets, open-source font packs, SVG generators, and icon management tools for web and mobile interfaces.
+- **[Awesome UI/UX Tools](https://github.com/aasavchauhan/awesome-design-tools):** UI/UX design tools, prototyping apps, accessibility checks, and design-system resources for product teams.
 - **[Awesome UX](https://github.com/brandonhimpfen/awesome-ux):** Usability research frameworks, wireframing tools, user mapping templates, and interaction testing resources.
 - **[Awesome Web Design](https://github.com/brandonhimpfen/awesome-web-design):** Typography guides, layout inspiration showcases, CSS design tools, and responsive interface pattern libraries.
 
