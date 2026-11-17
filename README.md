@@ -1,4 +1,4 @@
-# Awesome [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
+# Awesome [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awelist/awesome)
 
 [![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
@@ -16,12 +16,12 @@ A growing collection of curated awesome lists covering programming, AI, science,
 ---
 
 🌍 **Available in:** 🇺🇸 English •
-🇫🇷 [Français](https://github.com/brandonhimpfen/awesome-lists-fr) •
-🇪🇸 [Español](https://github.com/brandonhimpfen/awesome-lists-es) •
-🇵🇹 [Português](https://github.com/brandonhimpfen/awesome-lists-pt) •
-🇨🇳 [中文](https://github.com/brandonhimpfen/awesome-lists-zh) •
-🇯🇵 [日本語](https://github.com/brandonhimpfen/awesome-lists-ja) •
-🇩🇪 [Deutsch](https://github.com/brandonhimpfen/awesome-lists-de)
+🇫🇷 [Français](https://github.com/brandonhimpfen/awesome-fr) •
+🇪🇸 [Español](https://github.com/brandonhimpfen/awesome-es) •
+🇵🇹 [Português](https://github.com/brandonhimpfen/awesome-pt) •
+🇨🇳 [中文](https://github.com/brandonhimpfen/awesome-zh) •
+🇯🇵 [日本語](https://github.com/brandonhimpfen/awesome-ja) •
+🇩🇪 [Deutsch](https://github.com/brandonhimpfen/awesome-de)
 
 ---
 
